@@ -10,7 +10,7 @@
   <p align="center" >
   Distributed under the MIT License.
 
-Reinforcement Deep Double Q-Learning algorithm implemented with Pytorch.</br>
+Reinforcement Deep Double Q-Learning algorithm implemented with Pytorch. Supervisor: Dr. Wojtczak, Dominik.</br>
 <br />
 <a href="https://yuhang.topsoftint.com">Contact me at: <strong>yuhang@topsoftint.com</strong></a>
 
