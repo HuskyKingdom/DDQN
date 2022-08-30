@@ -4,7 +4,8 @@
 <div align="center" id="readme-top">
   
  <br />
-
+<img src="https://raw.githubusercontent.com/HuskyKingdom/Grasp_Detection/main/imgs/1.png" width="700" height="300"></br>
+</br>
   <h1 align="center">Deep Double Q-Learning</h1>
 
   <p align="center" >
