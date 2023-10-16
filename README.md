@@ -15,7 +15,7 @@ Reinforcement Deep Double Q-Learning algorithm implemented with Pytorch. This pr
 
 Supervisor: Dr. Wojtczak, Dominik.</br>
 <br />
-<a href="https://yuhang.topsoftint.com">Contact me at: <strong>me@yhscode.com</strong></a>
+<a href="https://yhscode.com">Contact me at: <strong>me@yhscode.com</strong></a>
 
 <a href="https://yhscode.com"><strong>View my full bio.</strong></a>
     <br />
